@@ -1,0 +1,32 @@
+{
+  "name": "generic-rest-api",
+  "version": "0.0.0",
+  "description": "A simple base to get going with a REST service development",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.12.4",
+    "express": "~4.12.4",
+    "mongoose": "~4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/Joncy/generic-rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "mongoose",
+    "node"
+  ],
+  "author": {
+    "name": "Jon Senra Dearle",
+    "email": "jonsenra.93@gmail.com",
+    "url": "http://jsenradearle.me"
+  },
+  "license": "GPLv3"
+}
